@@ -1,0 +1,2 @@
+model,target_variable,rmse,mae,r2
+Random Forest Regressor,market_performance_index,0.5687242258325306,0.2586405335917803,0.5081124191596544

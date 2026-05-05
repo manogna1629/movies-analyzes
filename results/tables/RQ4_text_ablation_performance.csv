@@ -1,0 +1,7 @@
+prediction_task,target_variable,feature_set,r2,rmse,mae
+Popularity Prediction,popularity,Structured only,0.05339103209937346,2.6850343899773974,0.3113581970597641
+Popularity Prediction,popularity,Structured + text,-0.14025504531186161,2.946901002667354,0.35829002078620964
+Revenue Prediction,log_revenue,Structured only,0.999418398293264,0.09225794900573674,0.042472437210084486
+Revenue Prediction,log_revenue,Structured + text,0.9993505193058693,0.09749314546814439,0.045286733852094974
+Rating Prediction,vote_average,Structured only,0.8263543140490621,1.2628974471487098,0.8365798146982077
+Rating Prediction,vote_average,Structured + text,0.8173133069441488,1.2953572001902645,0.8651061993094533
